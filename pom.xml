@@ -109,6 +109,7 @@
                 <version>2.3</version>
                 <configuration>
                     <createDependencyReducedPom>true</createDependencyReducedPom>
+                    <dependencyReducedPomLocation>target/dependency-reduced-pom.xml</dependencyReducedPomLocation>
                     <filters>
                         <filter>
                             <artifact>*:*</artifact>
