@@ -3,7 +3,7 @@
 Demo of dropwizard-spring integration.
 
 - [x] dropwizard-spring
-- [x] Java 7
+- [x] ~~Java 7~~
 - [x] Java 8 + Spring 4
 
 Urls:
