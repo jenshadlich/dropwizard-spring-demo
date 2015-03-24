@@ -4,7 +4,7 @@ Demo of dropwizard-spring integration.
 
 - [x] dropwizard-spring
 - [x] Java 7
-- [ ] Java 8 + Spring 4
+- [x] Java 8 + Spring 4
 
 Urls:
 - [http://localhost:8080/hello-world?name=Tyrion](http://localhost:8080/hello-world?name=Tyrion)
